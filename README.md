@@ -2,7 +2,7 @@
 SpamTorch Concept for ICT30016 Innovation
 ### Description
 * The project code is completely done using Python
-* CEAS_08  and SpamAssassin CSV Dataset’s taken from kaggle, link: hhttps://figshare.com/articles/dataset/Curated_Dataset_-_Phishing_Email/24899952ttps://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code.  A sequential emailid column added to both files to provide an easy means to identify records in output files.
+* CEAS_08  and SpamAssassin CSV Dataset’s taken from figshare, link: hhttps://figshare.com/articles/dataset/Curated_Dataset_-_Phishing_Email/24899952.
 * Required packages installed, which are pandas, torch, nltk, sklearn, seaborn, matplotlib, genism, numpy
 * LSTM Neural Classifier.
 * Install CEAS_08.csv and SpamAssassin.csv into the /train subdirectory on which you install the SpamTorchTrain.py file.
